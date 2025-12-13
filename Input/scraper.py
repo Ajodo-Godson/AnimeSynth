@@ -22,7 +22,7 @@ from typing import Iterable
 BASE_URL = "https://animezen.net"
 MIDIS_INDEX_URL = f"{BASE_URL}/midis"
 
-# --- simple config (edit these if you want different behavior) ---
+
 OUT_DIR = Path("Input/downloaded_midis")
 DRY_RUN = False
 RATE_LIMIT_S = 0.4
