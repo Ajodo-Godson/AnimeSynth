@@ -1,6 +1,7 @@
-# AnimeSynth
+# Melody-AnimeSynth
 
 Elo Elo 
+
 Github said the notebook is too big :( 
 
 So not uploading
