@@ -1,3 +1,3 @@
-# MelodyVAE
+# AnimeSynth
 
 Elo Elo 
